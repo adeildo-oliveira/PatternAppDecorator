@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternAppDecorator", "PatternAppDecorator\PatternAppDecorator.csproj", "{4BF17096-D687-4110-9CAA-1EFE9F7FB937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BF17096-D687-4110-9CAA-1EFE9F7FB937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF17096-D687-4110-9CAA-1EFE9F7FB937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF17096-D687-4110-9CAA-1EFE9F7FB937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF17096-D687-4110-9CAA-1EFE9F7FB937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2AD5CC4-C9E9-4C3C-9328-04B8F5828238}
+	EndGlobalSection
+EndGlobal
