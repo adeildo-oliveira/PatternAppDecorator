@@ -11,7 +11,7 @@ namespace PatternAppDecorator
             var resultado = new AliquotaPercentual7(new AliquotaPercentual15());
 
             Console.WriteLine(resultado.CalculaImposto(salario));
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
